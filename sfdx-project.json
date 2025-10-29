@@ -5,8 +5,8 @@
       "default": true
     }
   ],
-  "name": "workingWithDataInLWC",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "64.0"
+  "sourceApiVersion": "58.0",
+  "packageAliases": {}
 }
